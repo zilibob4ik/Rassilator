@@ -1,5 +1,5 @@
 {
-  "version": "3.2.4",
+  "version": "3.2.5",
   "updated": "2026-04-23",
   "selectors": {
     "search_input": ".yamb-search-input",
