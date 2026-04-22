@@ -1,0 +1,18 @@
+{
+  "version": "3.2.2",
+  "updated": "2026-04-23",
+  "selectors": {
+    "search_input": ".yamb-search-input",
+    "text_input": ".ui-input",
+    "not_found": ".yamb-search__notfound",
+    "user_item": ".ui-entity-block.yamb-list-item-user",
+    "user_name": ".yamb-list-item-user__name",
+    "editor_p": ".md-wysiwyg-editor__editor .ProseMirror p",
+    "submit_button": ".yamb-compose-submit-button"
+  },
+  "fallbacks": {
+    "search_input": "input[placeholder*='Поиск'], input[aria-label*='search']",
+    "text_input": "textarea, [contenteditable='true'], input[type='text']",
+    "submit_button": "button[type='submit'], [data-testid='send-button'], button:has(svg.send)"
+  }
+}
