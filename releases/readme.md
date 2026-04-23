@@ -4,49 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Помощь</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      width: 300px;
-      padding: 5px;
-      background-color: #f5f5f5;
-      display: flex;
-      flex-direction: column;
-      align-items: left;
-    }
-    h1, h2, h3 {
-      color: #333;
-      text-align: left;
-      margin-bottom: 5px;
-    }
-    p {
-      color: gray;
-      text-align: left;
-      margin-bottom: 5px;
-    }
-    .button {
-      display: inline-block;
-      padding: 5px 5px;
-      background-color: #51b5b7;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-      font-size: 16px;
-      transition: background-color 0.5s;
-      margin-top: 5px;
-    }
-    .button:hover {
-      background-color: #518485;
-    }
-    a {
-      color: #51b5b7;
-      text-decoration: none;
-      margin-top: 5px;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h3 style="color: gray;">digital-mind@yandex-team.ru 2026</h3>
