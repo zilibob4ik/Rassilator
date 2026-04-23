@@ -3,7 +3,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Помощь</title>
 </head>
 <body>
   <h3 style="color: gray;">digital-mind@yandex-team.ru 2026</h3>
