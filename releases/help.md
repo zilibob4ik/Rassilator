@@ -10,7 +10,7 @@
 
 ## Авторизация
 
-![Авторизация](https://raw.githubusercontent.com/zilibob4ik/Rassilator/main/images/autorisation.png)
+<img src="https://raw.githubusercontent.com/zilibob4ik/Rassilator/main/images/autorisation.png">
 
 Авторизация пользователя носит номинальный характер:
 
