@@ -28,7 +28,7 @@
 
 ## Настройки рассылки
 
-![Настройки](https://raw.githubusercontent.com/zilibob4ik/Rassilator/main/images/settings.png)
+<img src="https://raw.githubusercontent.com/zilibob4ik/Rassilator/main/images/settings.png"/>
 
 **Задержка** обеспечивает загрузку данных. Рекомендуемое значение: 2 секунды.
 
